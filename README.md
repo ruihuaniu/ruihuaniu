@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I'm Ruihua, a Frontend Developer
+### I'm Ruihua, a Frontend Developer
 
 I have:
 - Several years industrial experience.
@@ -15,7 +15,7 @@ My Skills:
 - Node.js, MongoDB
 - AWS, Docker
 
-#### Reach out to me by leaving a comment.
+Reach out to me by leaving a comment.
 
 [My Portfolio](https://have-fun.vercel.app/portfolio)
 
