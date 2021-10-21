@@ -1,6 +1,24 @@
 ### Hi there 👋
 
--I'm Ruihua, a Frontend Developer
+## I'm Ruihua, a Frontend Developer
+
+I have:
+- Several years industrial experience.
+- Exceptional eye for detail.
+- Passion for creating **performant** products with **delightful** user experience.
+
+My Skills:
+- SASS/CSSInJs
+- Material UI/ Antd, TailwindCSS
+- JavaScript/TypeScript, React, React Native, Redux
+- React testing library, Jest
+- Node.js, MongoDB
+- AWS, Docker
+
+#### Reach out to me by leaving a comment.
+
+[My Portfolio](https://have-fun.vercel.app/portfolio)
+
 
 
 
