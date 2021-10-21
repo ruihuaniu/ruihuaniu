@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-### I'm Ruihua, a Frontend Developer
-<hr/>
+#### I'm Ruihua, a Frontend Developer
+
 
 I have:
 - Several years industrial experience.
