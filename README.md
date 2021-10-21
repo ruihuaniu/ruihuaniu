@@ -10,7 +10,7 @@ I have:
 My Skills:
 - SASS/CSSInJs
 - Material UI/ Antd, TailwindCSS
-- JavaScript/TypeScript, React, React Native, Redux
+- **JavaScript/TypeScript, React, React Native, Redux**
 - React testing library, Jest
 - Node.js, MongoDB
 - AWS, Docker
