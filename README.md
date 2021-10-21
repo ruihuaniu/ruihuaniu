@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+-I'm Ruihua, a Frontend Developer
+
+
+
 <!--
 **ruihuaniu/ruihuaniu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
