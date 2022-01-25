@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I'm Ruihua, a Frontend Developer
+## I'm Ruihua, a Frontend / Fullstack Developer
 
 
 I have:
