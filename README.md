@@ -5,18 +5,17 @@
 
 I have:
 - Several years industrial experience.
-- Exceptional eye for detail.
+- Highly skilled and motivated. 
 - Passion for creating **performant** products with **delightful** user experience.
 
 My Skills:
-- SASS/CSSInJs
-- Material UI/ Antd, TailwindCSS
-- **JavaScript/TypeScript, React, React Native, Redux**
-- React testing library, Jest
-- Node.js, MongoDB
-- AWS, Docker
+- HTML, CSS, Material UI/ Antd, Tailwind, Charts
+- **JavaScript/TypeScript, React, Redux, Next.js, React Native**
+- Jest, React testing library, Cypress
+- Node.js, ORM, MongoDB, PostgreSQL
+- Git, CI/CD, Webpack, AWS, Docker
 
-Reach out to me by leaving a comment.
+Reach out to me by visiting:
 
 [My Portfolio](https://have-fun.vercel.app/portfolio)
 
