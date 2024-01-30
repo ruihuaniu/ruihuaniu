@@ -1,23 +1,23 @@
 ### Hi there 👋
 
-## I'm Ruihua, a Frontend / Fullstack Developer
+## I'm Ruihua, a Software Developer
 
 
 I have:
-- Several years industrial experience.
+- Several years of industrial experience.
 - Highly skilled and motivated. 
 - Passion for creating **performant** products with **delightful** user experience.
 
 My Skills:
-- HTML, CSS, Material UI/ Antd, Tailwind, Charts
+- HTML, CSS, Material UI, Tailwind, SASS, Framer, ECharts
 - **JavaScript/TypeScript, React, Redux, Next.js, React Native**
 - Jest, React testing library, Cypress
-- Node.js, ORM, MongoDB, PostgreSQL
-- Git, CI/CD, Webpack, AWS, Docker
+- Node.js, Prisma ORM, MongoDB, PostgreSQL
+- Git, CI/CD, Docker, NPM, AWS
 
 Reach out to me by visiting:
 
-[My Portfolio](https://have-fun.vercel.app/portfolio)
+[My Portfolio](https://portfolio.niuruihua.com/)
 
 
 
