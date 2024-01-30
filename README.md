@@ -6,7 +6,7 @@
 I have:
 - Several years of industrial experience.
 - Highly skilled and motivated. 
-- Passion for delivering **performant, scalable** products with **delightful** user experience.
+- Passion for creating **performant, scalable** products with **delightful** user experience.
 
 My Skills:
 - HTML, CSS, Material UI, Tailwind, SASS, Framer, ECharts
