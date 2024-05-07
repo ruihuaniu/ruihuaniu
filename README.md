@@ -4,16 +4,17 @@
 
 
 I have:
-- Several years of industrial experience.
+- Several years of industry experience.
 - Highly skilled and motivated. 
-- Passion for creating **performant, scalable** products with **delightful** user experience.
+- Passion for innovation and crafting **performant** products with **clean, scalable, maintainbale** code and **delightful** user experience.
 
 My Skills:
 - HTML, CSS, Material UI, Tailwind, SASS, Framer, ECharts
-- **JavaScript/TypeScript, React, Redux, Next.js, React Native**
+- **JavaScript/TypeScript, React, Redux/Toolkit, Next.js**
 - Jest, React testing library, Cypress
-- Node.js, Prisma ORM, MongoDB, PostgreSQL
+- Node.js, Python, Prisma ORM, MongoDB, PostgreSQL
 - Git, CI/CD, Docker, NPM, AWS
+- System Design, Data Structure & Algorithms
 
 Reach out to me by visiting:
 
