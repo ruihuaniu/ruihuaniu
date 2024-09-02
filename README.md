@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I'm Ruihua, a Software Developer
+## I'm Ruihua, a Software Engineer
 
 
 I have:
@@ -11,7 +11,7 @@ I have:
 My Skills:
 - HTML, CSS, Material UI, Tailwind, SASS, Framer, ECharts
 - **JavaScript/TypeScript, React, Redux/Toolkit, Next.js**
-- Jest, React testing library, Cypress
+- Jest, Testing library, Cypress
 - Node.js, Python, Prisma ORM, MongoDB, PostgreSQL
 - Git, CI/CD, Docker, NPM, AWS
 - System Design, Data Structure & Algorithms
